@@ -15,6 +15,9 @@
   }],
   "permissions": [
     "https://www.google.com/"
+  ],
+  "web_accessible_resources": [
+    "score.json"
   ]
  
 }
